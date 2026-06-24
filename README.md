@@ -10,6 +10,7 @@ This project analyses the performance of the Google Merchandise Store using Goog
 
 Rather than focusing solely on reporting metrics, the project connects digital analytics with marketing strategy by identifying opportunities to improve customer acquisition, conversion, engagement and retention.
 
+![Overview](images/GA4_Scope.jpg)
 ---
 
 ### Objectives
@@ -26,9 +27,7 @@ Rather than focusing solely on reporting metrics, the project connects digital a
 ### Tools
 
 * Google Analytics 4 (GA4)
-* Microsoft Excel
-* Data visualisation
-* Marketing Analytics
+* Data visualisation - Looker Studio
 
 ---
 
@@ -56,6 +55,7 @@ Some of the main findings include:
 * Several product categories attracted high levels of interest but underperformed in final conversions, highlighting opportunities for UX and merchandising improvements.
 * Data quality issues within GA4 tracking suggested opportunities to improve tagging and analytics implementation.
 
+![Recommendations](images/GA4_Recos.jpg)
 ---
 
 ### Outcome
